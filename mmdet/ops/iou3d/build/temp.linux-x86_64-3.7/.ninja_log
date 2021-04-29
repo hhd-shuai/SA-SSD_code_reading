@@ -1,0 +1,5 @@
+# ninja log v5
+0	1177	1618494367	/home/b516/hhd_shuai/vscode_file/mmdet_SA-SSD/mmdet/ops/iou3d/build/temp.linux-x86_64-3.7/src/iou3d_kernel.o	1d8c43509f0699ce
+0	11133	1618494377	/home/b516/hhd_shuai/vscode_file/mmdet_SA-SSD/mmdet/ops/iou3d/build/temp.linux-x86_64-3.7/src/iou3d.o	a9d9999fc4596e1a
+1	1105	1618542938	/home/b516/hhd_shuai/vscode_file/mmdet_SA-SSD/mmdet/ops/iou3d/build/temp.linux-x86_64-3.7/src/iou3d_kernel.o	fc57688d985d586d
+1	11445	1618542948	/home/b516/hhd_shuai/vscode_file/mmdet_SA-SSD/mmdet/ops/iou3d/build/temp.linux-x86_64-3.7/src/iou3d.o	e6e1f51e918728fd

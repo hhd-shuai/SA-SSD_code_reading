@@ -1,0 +1,7 @@
+# ninja log v5
+1	3210	1618494403	/home/b516/hhd_shuai/vscode_file/mmdet_SA-SSD/mmdet/ops/pointnet2/build/temp.linux-x86_64-3.7/src/interpolate.o	4b0fc18a49ade2b1
+1	9515	1618494409	/home/b516/hhd_shuai/vscode_file/mmdet_SA-SSD/mmdet/ops/pointnet2/build/temp.linux-x86_64-3.7/src/interpolate_gpu.o	10d5ea025cceee65
+1	11002	1618494411	/home/b516/hhd_shuai/vscode_file/mmdet_SA-SSD/mmdet/ops/pointnet2/build/temp.linux-x86_64-3.7/src/pointnet2_api.o	60d2e5dcd9515407
+1	3369	1618542973	/home/b516/hhd_shuai/vscode_file/mmdet_SA-SSD/mmdet/ops/pointnet2/build/temp.linux-x86_64-3.7/src/interpolate.o	b36d02d4ae96916d
+1	10429	1618542980	/home/b516/hhd_shuai/vscode_file/mmdet_SA-SSD/mmdet/ops/pointnet2/build/temp.linux-x86_64-3.7/src/interpolate_gpu.o	d951096d7db1f8b3
+1	11243	1618542981	/home/b516/hhd_shuai/vscode_file/mmdet_SA-SSD/mmdet/ops/pointnet2/build/temp.linux-x86_64-3.7/src/pointnet2_api.o	293b0b6ac6a2d5fb
