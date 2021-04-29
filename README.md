@@ -3,7 +3,7 @@
 
 ## SA-SSD: Structure Aware Single-stage 3D Object Detection from Point Cloud (CVPR 2020) [paper](https://www4.comp.polyu.edu.hk/~cslzhang/paper/SA-SSD.pdf)
 
-![1619659773788](C:\Users\hhd_s\AppData\Roaming\Typora\typora-user-images\1619659773788.png)
+![model](https://github.com/skyhehe123/SA-SSD/blob/master/doc/model.png)
 
 # Original Repository
 
