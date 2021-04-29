@@ -10,7 +10,7 @@
 > https://github.com/skyhehe123/SA-SSD
 
 ##### 源码基于mmdetection v1实现
-##### 注释仅为我个人理解，如有错误，还请见谅。
+##### 注释仅为个人理解。
 
 部分参考自：https://blog.csdn.net/qq_39732684/article/details/105147497
 
